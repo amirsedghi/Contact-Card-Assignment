@@ -1,0 +1,22 @@
+.leftC{
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
+}
+
+.rightC{
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
+}
+
+.leftC form div{
+	display: block;
+	margin-bottom: 30px;
+}
+
+
+#description{
+	width: 220px;
+	height: 150px;
+}
